@@ -32,7 +32,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/alan-araujo-oliveira" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-araujo-oliveira" height="30" width="40" /></a>
   <a href="https://instagram.com/enge.alan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enge.alan" height="30" width="40" /></a>
-  <a href="https://discord.gg/alanoliveira" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alanoliveira" height="30" width="40" /></a>
+  <a href="https://discord.gg/lanoliveira" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alanoliveira" height="30" width="40" /></a>
 </p>
 
  
